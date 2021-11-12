@@ -5,4 +5,4 @@
 - Read_RFID_ID : RFID 리더기를 통해 RFID 개별 ID를 확인하는 코드<br><br>
 - RFID_NUMBER_OUTPUT : RFID 리더기를 통해 확인한 ID를 하나의 숫자로 지정하여 이를 7segment와 LCD Display로 출력하는 코드</h4></p>
 - ##숫자 출력 사진##
-- ![KakaoTalk_20210509_035629631](https://user-images.githubusercontent.com/69515694/117577795-44700e00-b126-11eb-9ee0-549055741ab8.jpg)
+- (https://user-images.githubusercontent.com/69515694/141469064-8cd913d9-1bb7-4ce0-bccb-92161ce8a97e.jpg)
